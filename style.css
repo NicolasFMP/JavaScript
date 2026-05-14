@@ -1,0 +1,35 @@
+body {
+    background-color: greenyellow;
+    margin: 0;
+}
+
+.titulo {
+    text-align: center;
+    font-family: cursive;
+}
+
+.texto {
+    text-align: center;
+    color:deeppink;
+    font-style: italic;
+    background-color:rgb(233, 230, 49);
+    font-size: 50px;
+}
+
+.imagem {
+    display: block;
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+button {
+    background-color: red;
+    font-size: 20px;
+}
+
+#vaca {
+    font-style: cursive;
+    font-size: 50px;
+    text-align: center;
+}
